@@ -2,8 +2,6 @@
 
 ## Changes I made
 
-1. Update elements, using <section>, <article>, instead of just <div>
+1. Update header to have semantic elements <header>, <nav>; removed extra uneeded class for <span>
 
-Note: This does mean the css needs to be changed to have the same effect
-
-2. 
+2. Change the hero and the 4 boxes into <section> and <article> for better redability
