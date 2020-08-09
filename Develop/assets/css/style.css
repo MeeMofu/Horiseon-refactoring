@@ -3,11 +3,15 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    ;
 }
 
 body {
     background-color: #d9dcd6;
-    font-size: 16px; /* Mosty lettering is the same */
+    font-size: 16px;
+    width: 1150px;
+    margin: 0 auto;
+    padding-bottom: 60px;
 }
 
 .float-left {
@@ -84,17 +88,12 @@ a {
 .benefits article{
     margin-bottom: 32px;
     color: #ffffff;
-    text-align: center;
 }
 
 .benefits h3 {
     margin: 0 auto;
     margin-bottom: 10px;
-    
-}
-
-.benefits p {
-    text-align: left;
+    text-align: center;
 }
 
 .benefits img {
