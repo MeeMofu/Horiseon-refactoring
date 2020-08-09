@@ -1,12 +1,18 @@
 # Code Refactor Starter Code
 
+## Product Preview
+
+![ScreenShot](https://raw.github.com/Shizen144/Horiseon-refactoring/master/Develop/assets/images/site-preview.png)
+
+Preview link: https://shizen144.github.io/Horiseon-refactoring/
+
 ## Changes made
 
-1. Update header to have semantic elements <header>, <nav>; removed extra uneeded class for <span>
+1. Update header to have semantic elements \<header>, \<nav>; removed extra uneeded class for \<span>
 
 2. Removed footer
 
-3. Change the hero and the 4 boxes into <section> and <article> for better redability
+3. Change the hero and the 4 boxes into \<section> and \<article> for better redability
 
 4. Remove extra CSS class for content and benefits sections, added break up comments for easy navigation
 
