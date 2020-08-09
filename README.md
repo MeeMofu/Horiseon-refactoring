@@ -2,7 +2,7 @@
 
 ## Product Preview
 
-![ScreenShot](https://raw.github.com/Shizen144/Horiseon-refactoring/master/Develop/assets/images/site-preview.png)
+![ScreenShot](https://raw.github.com/Shizen144/Horiseon-refactoring/master/assets/images/site-preview.png)
 
 Preview link: https://shizen144.github.io/Horiseon-refactoring/
 
