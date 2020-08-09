@@ -9,6 +9,17 @@ body {
     background-color: #d9dcd6;
     font-size: 16px; /* Mosty lettering is the same */
 }
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* ------End of general formating------ */
 
 /* -------Starts of header formating------- */
@@ -48,6 +59,7 @@ a {
 
 /* -------End of Header formating------- */
 
+/* ------Start of Hero------ */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,21 +68,13 @@ a {
     background-size: cover;
     background-position: center;
 }
+/* ------End of Hero------ */
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* -----Start of Benefit Formating----- */
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
+    /* clear: both; */
     float: right;
     width: 20%;
     height: 100%;
@@ -78,53 +82,29 @@ a {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits article{
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefits h3 {
+    margin: 0 auto;
     margin-bottom: 10px;
-    text-align: center;
+    
 }
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
+.benefits p {
+    text-align: left;
 }
 
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+/* -----End of Benefit Formating----- */
 
 /* -------Start of content formating------- */
 .content {
