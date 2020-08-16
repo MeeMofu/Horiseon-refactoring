@@ -2,9 +2,9 @@
 
 ## Product Preview
 
-![ScreenShot](https://raw.github.com/Shizen144/Horiseon-refactoring/master/assets/images/site-preview.png)
+![ScreenShot](https://raw.github.com/MeeMofu/Horiseon-refactoring/master/assets/images/site-preview.png)
 
-Preview link: https://shizen144.github.io/Horiseon-refactoring/
+Preview link: https://meemofu.github.io/Horiseon-refactoring/
 
 ## Changes made
 
